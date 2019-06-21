@@ -1,4 +1,10 @@
-# Employeemang
+#Employee_Management
+
+<img src="https://user-images.githubusercontent.com/35393434/59917818-9e875d80-9440-11e9-84a9-ecfb0ba15d94.png" width="900px" height="600px"/>
+<img src="https://user-images.githubusercontent.com/35393434/59917878-c24aa380-9440-11e9-9d74-7c40ec238815.png" width="900px" height="600px"/>
+<img src="https://user-images.githubusercontent.com/35393434/59917913-dc848180-9440-11e9-9daf-99b54aea67e7.png" width="900px"
+height="600px"/>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
