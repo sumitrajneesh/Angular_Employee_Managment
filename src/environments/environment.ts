@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyDWSa-0NboO1lZvlCUtdkvSNaqiCfQKwW4",
+    authDomain: "sumitchatapp.firebaseapp.com",
+    databaseURL: "https://sumitchatapp.firebaseio.com",
+    projectId: "sumitchatapp",
+    storageBucket: "sumitchatapp.appspot.com",
+    messagingSenderId: "1064726937576",
+    appId: "1:1064726937576:web:150f8c65d5765643"
+  }
 };
 
 /*
